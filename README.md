@@ -9,5 +9,5 @@ python test_frcnn.py -p ../data/test/
 ```
 3. evaluate 
 ```
-python evaluate.py
+python evaluate.py -o simple -p test.txt
 ```
